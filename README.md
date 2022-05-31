@@ -15,7 +15,7 @@ Course: https://www.youtube.com/watch?v=zJxJerQtUdk&ab_channel=CodingCrashkurse
  * clone the projekt 
  * In react root (react_todoapp/todoapp) do:
      * Init project by `npm install` 
-     * Start the project by: `npm start` should work now
+     * Start the project by: `npm start` should start the npm dev server
      * After successful creation, open project in root with VS code by ```code .```
 
   
