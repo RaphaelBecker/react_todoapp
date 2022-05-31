@@ -13,8 +13,9 @@ Course: https://www.youtube.com/watch?v=zJxJerQtUdk&ab_channel=CodingCrashkurse
  *create app by: ```npx create-react-app todoapp --use-npm```
 ### Start with this project:
  * clone the projekt 
- * Init project by `npm install` in root (react_todoapp/todoapp)
- * Start the project by: `npm start` should work now
- * After successful creation, open project in root with VS code by ```code .```
+ * In react root (react_todoapp/todoapp) do:
+     * Init project by `npm install` 
+     * Start the project by: `npm start` should work now
+     * After successful creation, open project in root with VS code by ```code .```
 
   
