@@ -16,5 +16,6 @@ Course: https://www.youtube.com/watch?v=zJxJerQtUdk&ab_channel=CodingCrashkurse
      * Init project by `npm install` 
      * Start the project by: `npm start` should start the npm dev server
      * After successful creation, open project in root with VS code by ```code .```
-     * Follow the instructions and install Tailwind package with CRACO in : https://v2.tailwindcss.com/docs/guides/create-react-app
+     * Follow the instructions and install Tailwind package with CRACO in : https://v2.tailwindcss.com/docs/guides/create-react-app#:~:text=cd%20my%2Dproject-,Setting%20up%20Tailwind%20CSS,-Tailwind%20CSS%20requires
+     
   
